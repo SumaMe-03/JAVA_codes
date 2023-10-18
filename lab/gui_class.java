@@ -40,7 +40,7 @@ public class gui_class extends WindowAdapter implements ActionListener{
 		b1.addActionListener(this);
 	}
 	
-	public void windowClosing() {
+	public void windowClosing(WindowEvent e) {
 		f.dispose();
 	}
 
