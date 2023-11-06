@@ -1,3 +1,14 @@
+//Find the first number less than 100 in a given list of numbers
+//Eg:
+// 95
+// 616
+// 314
+// 76
+// 89
+// 54
+// 11
+//Output: 95
+
 import java.util.*;
 import java.io.*;
 
